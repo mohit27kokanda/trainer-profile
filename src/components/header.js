@@ -1,7 +1,9 @@
 import React from "react";
-import profilepic from "../assets/a1.jpg";
 import profilepic2 from "../assets/a2.jpg";
 import profilepic3 from "../assets/a3.jpg";
+import profilepic4 from "../assets/a4.jpg";
+import profilepic5 from "../assets/a5.jpg";
+import profilepic6 from "../assets/a6.jpg";
 import "../components/style.css";
 import logo from "../assets/yoboshu-logo.png";
 
@@ -39,6 +41,7 @@ function header() {
     slidesToScroll: 1,
     arrows: true,
     className: "slide",
+    autoplay: true,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
   };
@@ -56,7 +59,10 @@ function header() {
                 <div className="slider">
                   <Slider {...settings}>
                     <img className="profile-pic" src={profilepic2} alt="" />
-                    <img className="profile-pic" src={profilepic} alt="" />
+                    <img className="profile-pic" src={profilepic4} alt="" />
+
+                    <img className="profile-pic" src={profilepic5} alt="" />
+                    <img className="profile-pic" src={profilepic6} alt="" />
 
                     <img className="profile-pic" src={profilepic3} alt="" />
                   </Slider>

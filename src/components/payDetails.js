@@ -23,7 +23,7 @@ function payDetails() {
           </div>
         </div>
         <div className="col-3 card-center">
-          <div className="card-cover">
+          <div className="card-cover-center">
             <div className="card-header-center">
               <h2>Starter Plan</h2>
               <p>
