@@ -1,9 +1,47 @@
 import React from "react";
-import profilepic from "../assets/bharat-profile.jpg";
+import profilepic from "../assets/a1.jpg";
+import profilepic2 from "../assets/a2.jpg";
+import profilepic3 from "../assets/a3.jpg";
 import "../components/style.css";
 import logo from "../assets/yoboshu-logo.png";
 
+import Slider from "react-slick";
+function SamplePrevArrow(props) {
+  const { className, style, onClick } = props;
+  return (
+    <div
+      className={className}
+      style={{
+        ...style,
+        display: "block",
+      }}
+      onClick={onClick}
+    />
+  );
+}
+function SampleNextArrow(props) {
+  const { className, style, onClick } = props;
+  return (
+    <div
+      className={className}
+      style={{ ...style, display: "block" }}
+      onClick={onClick}
+    />
+  );
+}
+
 function header() {
+  var settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: true,
+    className: "slide",
+    nextArrow: <SampleNextArrow />,
+    prevArrow: <SamplePrevArrow />,
+  };
   return (
     <>
       <div className="container-fluid bg-1">
@@ -13,9 +51,18 @@ function header() {
               <div className="logo">
                 <img src={logo} alt="" />
               </div>
+
               <div class=" col-lg-4 pic-div">
-                <img className="profile-pic" src={profilepic} alt="" />
+                <div className="slider">
+                  <Slider {...settings}>
+                    <img className="profile-pic" src={profilepic2} alt="" />
+                    <img className="profile-pic" src={profilepic} alt="" />
+
+                    <img className="profile-pic" src={profilepic3} alt="" />
+                  </Slider>
+                </div>
               </div>
+
               <div class=" col-lg-7 ">
                 <div className="row">
                   <div className="col-lg-12 white-space-1">

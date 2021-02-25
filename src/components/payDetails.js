@@ -66,6 +66,14 @@ function payDetails() {
             <li>6:00 PM TO 7:00 PM</li>
             <li>7:00 PM TO 8:00 PM</li>
           </ul>
+          <p>
+            <span>Note:</span>Above charge are for in-person training. It does
+            not include group discount. Moreover, price for online training is
+            20% less than in-person training.
+          </p>
+          <div className="money-div">
+            <span className="moneyBack"> * Money Back Guarantee * </span>
+          </div>
         </div>
         <div className="col-2"></div>
       </div>
