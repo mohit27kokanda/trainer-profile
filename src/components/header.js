@@ -66,6 +66,10 @@ function header() {
               <div class=" col-lg-7 ">
                 <div className="row">
                   <div className="col-lg-12 white-space-1">
+                    <h1 class="name">
+                      Cristian
+                      <br /> <span className="last-name">Baron</span>
+                    </h1>
                     <span className="certified">
                       <i class="fas fa-shield-check"></i>
                       Certified
