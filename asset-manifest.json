@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trainer-profile/static/css/main.ce9fbea5.chunk.css",
+    "main.js": "/trainer-profile/static/js/main.99e2cf26.chunk.js",
+    "main.js.map": "/trainer-profile/static/js/main.99e2cf26.chunk.js.map",
+    "runtime-main.js": "/trainer-profile/static/js/runtime-main.505e0e61.js",
+    "runtime-main.js.map": "/trainer-profile/static/js/runtime-main.505e0e61.js.map",
+    "static/js/2.bed5793f.chunk.js": "/trainer-profile/static/js/2.bed5793f.chunk.js",
+    "static/js/2.bed5793f.chunk.js.map": "/trainer-profile/static/js/2.bed5793f.chunk.js.map",
+    "static/js/3.2f44e809.chunk.js": "/trainer-profile/static/js/3.2f44e809.chunk.js",
+    "static/js/3.2f44e809.chunk.js.map": "/trainer-profile/static/js/3.2f44e809.chunk.js.map",
+    "index.html": "/trainer-profile/index.html",
+    "static/css/main.ce9fbea5.chunk.css.map": "/trainer-profile/static/css/main.ce9fbea5.chunk.css.map",
+    "static/js/2.bed5793f.chunk.js.LICENSE.txt": "/trainer-profile/static/js/2.bed5793f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/trainer-profile/static/media/pattern_2.2b2a04f8.svg",
+    "static/media/bharat-profile.2ef68b78.jpg": "/trainer-profile/static/media/bharat-profile.2ef68b78.jpg",
+    "static/media/logo.6ce24c58.svg": "/trainer-profile/static/media/logo.6ce24c58.svg",
+    "static/media/yoboshu-logo.ffd96903.png": "/trainer-profile/static/media/yoboshu-logo.ffd96903.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505e0e61.js",
+    "static/js/2.bed5793f.chunk.js",
+    "static/css/main.ce9fbea5.chunk.css",
+    "static/js/main.99e2cf26.chunk.js"
+  ]
+}
