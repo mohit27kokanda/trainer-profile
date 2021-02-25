@@ -99,7 +99,7 @@ function header() {
                       <button>HIIT</button>
                     </div>
                     <div className="location">
-                      <h4 className="heading-style">My Loaction</h4>
+                      <h4 className="heading-style">My Location</h4>
                       <span>
                         <i class="fas fa-map-marker-alt"></i> New Delhi
                       </span>

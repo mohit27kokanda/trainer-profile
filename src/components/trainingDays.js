@@ -11,7 +11,7 @@ const trainingDays = () => {
             <div className="circle wed">Wednesday</div>
             <div className="circle thu">Thursday</div>
             <div className="circle fri">Friday</div>
-            <div className="circle sat">Satuarday</div>
+            <div className="circle sat">Saturday</div>
             <div className="circle sun">Sunday</div>
           </div>
           <div className="col-6 people-div">
