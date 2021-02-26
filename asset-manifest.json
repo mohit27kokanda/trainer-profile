@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/trainer-profile/static/css/main.c9a86f52.chunk.css",
-    "main.js": "/trainer-profile/static/js/main.3e7c94e5.chunk.js",
-    "main.js.map": "/trainer-profile/static/js/main.3e7c94e5.chunk.js.map",
+    "main.css": "/trainer-profile/static/css/main.dd09dfbc.chunk.css",
+    "main.js": "/trainer-profile/static/js/main.2717ff4d.chunk.js",
+    "main.js.map": "/trainer-profile/static/js/main.2717ff4d.chunk.js.map",
     "runtime-main.js": "/trainer-profile/static/js/runtime-main.238f099a.js",
     "runtime-main.js.map": "/trainer-profile/static/js/runtime-main.238f099a.js.map",
     "static/js/2.e20bfbb7.chunk.js": "/trainer-profile/static/js/2.e20bfbb7.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a068196c.chunk.js": "/trainer-profile/static/js/3.a068196c.chunk.js",
     "static/js/3.a068196c.chunk.js.map": "/trainer-profile/static/js/3.a068196c.chunk.js.map",
     "index.html": "/trainer-profile/index.html",
-    "static/css/main.c9a86f52.chunk.css.map": "/trainer-profile/static/css/main.c9a86f52.chunk.css.map",
+    "static/css/main.dd09dfbc.chunk.css.map": "/trainer-profile/static/css/main.dd09dfbc.chunk.css.map",
     "static/js/2.e20bfbb7.chunk.js.LICENSE.txt": "/trainer-profile/static/js/2.e20bfbb7.chunk.js.LICENSE.txt",
     "static/media/a2.ab3c1700.jpg": "/trainer-profile/static/media/a2.ab3c1700.jpg",
     "static/media/a3.7a2bc0c6.jpg": "/trainer-profile/static/media/a3.7a2bc0c6.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.238f099a.js",
     "static/js/2.e20bfbb7.chunk.js",
-    "static/css/main.c9a86f52.chunk.css",
-    "static/js/main.3e7c94e5.chunk.js"
+    "static/css/main.dd09dfbc.chunk.css",
+    "static/js/main.2717ff4d.chunk.js"
   ]
 }
